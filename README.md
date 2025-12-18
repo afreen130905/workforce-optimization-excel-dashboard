@@ -28,5 +28,5 @@ This project analyzes employee data to optimize workforce allocation and support
 - Scenario-based planning helps management evaluate multiple salary strategies
 
 ## 🖼 Dashboard Preview
-![Dashboard] screenshots/dashboard_overview.png
+![Dashboard](screenshots/dashboard_overview.png)
 
